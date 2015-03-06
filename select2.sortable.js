@@ -78,7 +78,7 @@
         if (!$select.data('hasSelect2Sortable')) {
           initSelect2Sortable($select);
 
-          var values = $select.attr('data-values');
+          var values = $select.attr('data-order');
 
           if (values) {
             sortSelect2Sortable($select, values.split(','));
