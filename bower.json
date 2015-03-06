@@ -1,6 +1,9 @@
 {
   "name": "select2.sortable",
-  "main": "select2.sortable.js",
+  "main": [
+    "select2.sortable.js",
+    "select2.sortable.css"
+  ]
   "version": "0.0.0",
   "homepage": "http://finn.heemeyer.net/select2.sortable/",
   "description": "Combines select2 and html5sortable for sorted selectlist awesomeness!",
