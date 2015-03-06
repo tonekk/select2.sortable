@@ -1,0 +1,29 @@
+{
+  "name": "select2.sortable-gh-pages",
+  "version": "1.0.0",
+  "description": "GH Pages for select2.sortable",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tonekk/select2.sortable.git"
+  },
+  "keywords": [
+    "gh-pages",
+    "select2",
+    "sortable",
+    "select2.sortable"
+  ],
+  "author": "tonekk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tonekk/select2.sortable/issues"
+  },
+  "homepage": "https://github.com/tonekk/select2.sortable",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-wiredep": "^2.0.0"
+  }
+}
