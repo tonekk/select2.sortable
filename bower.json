@@ -1,0 +1,31 @@
+{
+  "name": "select2.sortable",
+  "main": "select2.sortable.js",
+  "version": "0.0.0",
+  "homepage": "http://finn.heemeyer.net/select2.sortable/",
+  "description": "Combines select2 and html5sortable for sorted selectlist awesomeness!",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "select2",
+    "html5sortable",
+    "jquery",
+    "sortable"
+  ],
+  "authors": [
+    "tonekk"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "select2-ng": "~3.5.2",
+    "html.sortable": "~0.1.8"
+  }
+}
