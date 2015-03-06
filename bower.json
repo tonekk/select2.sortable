@@ -8,7 +8,7 @@
     "type": "git",
     "url": "git@github.com:tonekk/select2.sortable.git"
   },
-  "version": "0.0.0",
+  "version": "1.0.0",
   "homepage": "http://finn.heemeyer.net/select2.sortable/",
   "description": "Combines select2 and html5sortable for sorted selectlist awesomeness!",
   "moduleType": [
